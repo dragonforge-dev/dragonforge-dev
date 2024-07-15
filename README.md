@@ -2,7 +2,7 @@
 - 👀 I’m interested in software architecture and videogame development. I prefer backend development to frontend, but I enjoy crafting a delightful user experience.
 - 🌱 I’m constantly learning more about [Godot](https://godotengine.org) and modern 3D game development.
 - 💞️ I’m looking to collaborate on things I feel will enhance the game development experience with [Godot](https://godotengine.org).
-- 📫 How to reach me: Visit me at [Dragonforge.dev](https://dragonforge.dev)
+- 📫 How to reach me: Visit me at [Dragonforge.dev](https://dragonforge.dev) or on [itch.io](https://dragonforge-development.itch.io/) to see what tools and games I've created.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm working on paid tutorials for Godot that will not only help people learn how to create fully functional games, but learn the skills to be a professional developer. In over 20 years of hiring engineers, I've found there are a lot of things schools and coding bootcamps don't teach that are essential to being a good developer.
 
